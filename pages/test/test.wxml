@@ -1,0 +1,11 @@
+<view class="myMap">
+
+  <map 
+    id="map"
+    subkey="{{key}}"
+    longitude="{{longitude}}"
+    latitude="{{latitude}}" 
+    layer-style="1"
+  ></map>
+
+</view>
